@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.reutermj.ideauntitledprogramminglanguage.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.reutermj.ideauntitledprogramminglanguage.MyBundle
 
 class MyApplicationService {
 
